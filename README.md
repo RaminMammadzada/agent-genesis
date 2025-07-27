@@ -40,9 +40,7 @@ agent-genesis/
 │   ├── educational-coder.md
 │   └── defensive-coder.md
 ├── src/
-│   ├── meta_agent_demonstration.py    # Complete system demo
-│   └── phase1_single_gene_poc.py     # Genetic system foundation
-├── SYSTEM_SUMMARY.md                 # This comprehensive guide
+│   └── meta_agent_demonstration.py    # Complete system demo
 └── [documentation files]
 ```
 
