@@ -262,12 +262,14 @@ Base genetic templates for specialized development approaches:
 ## 🚀 **Getting Started (2 Minutes)**
 
 ### **Option 1: Use with Claude Code (Recommended)**
+
 1. **Clone this repository** to your local machine
 2. **Copy any agent** from `.claude/agents/` to your Claude Code workspace
 3. **Start a conversation** - agents will automatically coordinate based on your task
 4. **Watch the magic** as agents self-organize and solve your challenge
 
 ### **Option 2: Manual Agent Activation**
+
 ```bash
 # 1. Clone the repository
 git clone https://github.com/yourusername/agent-genesis.git
@@ -278,7 +280,7 @@ cp .claude/agents/core-meta-agents/* /path/to/your/claude/workspace/
 
 # 3. Start with the meta-coordinator
 # Copy genesis-meta-coordinator.md content and paste into Claude
-````
+```
 
 ### **Your First Agent Swarm:**
 
